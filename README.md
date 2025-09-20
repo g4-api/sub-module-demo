@@ -1,2 +1,2 @@
 # sub-module-demo
-Demo
+Demo 1
